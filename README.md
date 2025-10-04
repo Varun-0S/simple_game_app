@@ -18,7 +18,6 @@ Fun Game Hub is a **simple Flutter app** containing 3 mini-games:
 
 ## Features
 
-- Colorful, professional UI (purple, yellow, green theme)
 - User-friendly and responsive layout
 - Works offline – no backend required
 - Easy navigation between games
