@@ -10,7 +10,7 @@ Fun Game Hub is a **simple Flutter app** containing 3 mini-games:
 
 ## Demo
 
-![Demo Video](assets/demo_video.mp4)
+[Download Demo Video](https://github.com/Varun-0S/simple_game_app/raw/main/assets/fun_game_hub_demo.mp4)
 
 ---
 
