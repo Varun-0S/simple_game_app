@@ -12,8 +12,6 @@ Fun Game Hub is a **simple Flutter app** containing 3 mini-games:
 
 ![Demo Video](assets/demo_video.mp4)
 
-> Tap on the games to play and keep track of your score.
-
 ---
 
 ## Features
