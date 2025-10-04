@@ -1,16 +1,26 @@
 # simple_game_app
 
-A new Flutter project.
+Fun Game Hub is a **simple Flutter app** containing 3 mini-games:
 
-## Getting Started
+1. **Memory Game** – Flip cards and match pairs.
+2. **Rock-Paper-Scissors** – Play classic hand game against the computer.
+3. **Math Quiz** – Solve quick arithmetic questions.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Demo Video](assets/demo_video.mp4)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Tap on the games to play and keep track of your score.
+
+---
+
+## Features
+
+- Colorful, professional UI (purple, yellow, green theme)
+- User-friendly and responsive layout
+- Works offline – no backend required
+- Easy navigation between games
+
+---
